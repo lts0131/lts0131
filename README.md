@@ -1,10 +1,8 @@
 [![MastHead](https://raw.githubusercontent.com/praveenscience/praveenscience/master/mast.png)](https://praveen.science)
 
-# Hello there! 👋🏻 I am Praveen Kumar! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there! 👋🏻 I am Liu RunMing! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-I am Praveen Kumar 🙋🏻‍♂️, a Cook, Cat Lover, Front End Architect, Web Developer Evangelist & Cloud Computing Consultant.
-
-I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a Speaker, a FullStack JavaScript Developer and I hold the top 0.05% Overall position in Stack Overflow.
+I am Liu RunMing 🙋🏻‍♂️, a photographer, cyclist, full-stack developer, web developer evangelist and AI developer.
 
 ### Check out my latest Live Streams on my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1). Here are some of my active projects:
 
