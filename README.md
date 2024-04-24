@@ -14,7 +14,7 @@ I am Liu RunMing 🙋🏻‍♂️, a photographer, cyclist, full-stack develope
 
 | ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lts0131&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lts0131) |
 | --- | --- |
-| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lts0131) | <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/lts0131" target="_blank">
+| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lts0131)
 
 ![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=lts0131)
 
