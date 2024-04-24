@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/lts0131/lts0131/main/mast.png)
+![MastHead](https://raw.githubusercontent.com/lts0131/lts0131/main/mast.png)
 
 # Hello there! 👋🏻 I am Liu RunMing! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
@@ -14,7 +14,7 @@ I am Liu RunMing 🙋🏻‍♂️, a photographer, cyclist, full-stack develope
 
 | ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lts0131&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lts0131) |
 | --- | --- |
-| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lts0131) | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/lts0131) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/lts0131" target="_blank">
+| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lts0131) | <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/lts0131" target="_blank">
 
 ![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=lts0131)
 
