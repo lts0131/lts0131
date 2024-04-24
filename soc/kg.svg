@@ -5,7 +5,7 @@
     <title>YOUTUBE:Liu RunMing</title>
     <g shape-rendering="crispEdges">
         <rect width="100.5" height="28" fill="#555" />
-        <rect width="149" height="28" x="100.5" fill="red" />
+        <rect width="149" height="28" x="100.5" fill="#1da1f2" />
     </g>
     <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100"
         text-anchor="middle" text-rendering="geometricPrecision">
