@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/lts0131/lts0131/main/mast.png)]
+[![MastHead](https://raw.githubusercontent.com/lts0131/lts0131/main/mast.png)
 
 # Hello there! 👋🏻 I am Liu RunMing! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
