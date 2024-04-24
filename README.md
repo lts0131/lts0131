@@ -1,5 +1,3 @@
-![MastHead](https://raw.githubusercontent.com/lts0131/lts0131/main/mast.png)
-
 # Hello there! 👋🏻 I am Liu RunMing! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 I am Liu RunMing 🙋🏻‍♂️, a photographer, cyclist, full-stack developer, web developer evangelist and AI developer.
