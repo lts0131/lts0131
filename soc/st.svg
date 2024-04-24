@@ -1,0 +1,18 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="249.5"
+    height="28" aria-label="STRAVA:Liu RunMing" role="img">
+    <title>STRAVA:Liu RunMing</title>
+    <g shape-rendering="crispEdges">
+        <rect width="100.5" height="28" fill="#555" />
+        <rect width="149" height="28" x="100.5" fill="#fc4c02" />
+    </g>
+    <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100"
+        text-anchor="middle" text-rendering="geometricPrecision">
+    <path fill="#ef4444"
+        d="M14.18 2L5.9 18h4.88l3.4-6.38L17.56 18h4.84L14.18 2zm8.22 16L20 22.79L17.56 18h-3.7L20 30l6.1-12h-3.7z" />
+        <text x="620.5" y="175" fill="#fff" textLength="595" transform="scale(.1)">STRAVA</text>
+        <text x="1750" y="175" fill="#fff" font-weight="bold" textLength="1250"
+            transform="scale(.1)">Liu RunMing</text>
+    </g>
+</svg>
