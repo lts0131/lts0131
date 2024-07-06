@@ -4,7 +4,7 @@ I am Liu RunMing 🙋🏻‍♂️, a photographer, cyclist, full-stack develope
 
 ## Connect with Me 🤝🏻
 
-[![Blog](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/bl.svg)](https://blog.praveen.science/)  
+[![Blog](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/bl.svg)](https://blog.praveen.science/)
 [![Kaggle](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/kg.svg)](https://twitter.com/lts0131) 
 [![GitHub](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/gh.svg)](https://github.com/lts0131) 
 [![Facebook](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/fb.svg)](https://www.facebook.com/profile.php?id=100010727012245) 
