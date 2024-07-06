@@ -8,6 +8,7 @@ I am Liu RunMing 🙋🏻‍♂️, a photographer, cyclist, full-stack develope
 [![Kaggle](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/kg.svg)](https://twitter.com/lts0131) 
 [![GitHub](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/gh.svg)](https://github.com/lts0131) 
 [![Facebook](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/fb.svg)](https://www.facebook.com/profile.php?id=100010727012245) 
+[![Strava](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/ig.svg)](https://www.instagram.com/perparation/)
 [![Strava](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/st.svg)](https://www.strava.com/athletes/liurunming)
 
 
