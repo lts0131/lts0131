@@ -24,7 +24,7 @@ I am Liu RunMing 🙋🏻‍♂️, a photographer, cyclist, full-stack develope
 
 ### Dino <img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="24" />
 
-![Dino](https://raw.githubusercontent.com/lts0131/lts0131/main/dino.gif)
+![Dino](https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/dino.gif)
 
 | ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lts0131&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lts0131) |
 | --- | --- |
