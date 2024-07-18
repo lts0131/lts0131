@@ -26,12 +26,12 @@ I am Liu RunMing 🙋🏻‍♂️, a photographer, cyclist, full-stack develope
 
 ![Dino](https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/dino.gif)
 
-| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lts0131&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lts0131) |
+| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=threethreeLiu&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=threethreeLiu) |
 | --- | --- |
-| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lts0131)
+| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=threethreeLiu)
 
-![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=lts0131)
+![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=threethreeLiu)
 
 Watch my contribution graph being eaten by a Snake! 🐍
 
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/lts0131/lts0131/main/soc/snake.svg)
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/snake.svg)
