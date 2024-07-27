@@ -1,6 +1,6 @@
-# Hello there! 👋🏻 I am ThreeThreeLiu! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there! 👋🏻 I am ThreeThree Liu! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-I am Liu RunMing 🙋🏻‍♂️, a photographer, cyclist, full-stack developer, web developer and AI developer.
+I am ThreeThree Liu 🙋🏻‍♂️, a photographer, cyclist, full-stack developer, web developer and AI developer.
 
 ## Connect with Me 🤝🏻
 
