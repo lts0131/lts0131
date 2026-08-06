@@ -38,11 +38,13 @@
       <td><b>🧬 Model Training & Fine-tuning</b></td>
       <td>
         SFT · LoRA · Parameter-Efficient Fine-tuning (PEFT)<br/>
+        RLHF · DPO · PPO · GRPO — alignment & reinforcement learning<br/>
         Model internals & attention mechanism analysis<br/>
         Distributed training, GPU memory & throughput optimization
       </td>
       <td>
         <code>PyTorch</code> · <code>DeepSpeed</code> · <code>CUDA</code> · <code>PEFT</code> · <code>Transformers</code> · <code>TensorFlow</code><br/>
+        <code>TRL</code> · <code>trl-lib</code> · <code>vLLM</code> · <code>Megatron-LM</code><br/>
         <i>→ GPU resources optimized 25% · dev velocity +40%</i>
       </td>
     </tr>
