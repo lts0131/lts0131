@@ -21,6 +21,84 @@
 
 ---
 
+## 🧠 大模型 / Agent 能力矩阵
+
+> 把大模型能力做成可交付、可迭代、可落地的工程系统，是我现在做的所有事情的主线。
+
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="22%">方向</th>
+      <th align="left">核心能力</th>
+      <th align="left">工具栈 / 关键词</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🧬 模型训练与微调</b></td>
+      <td>
+        SFT · LoRA · 参数高效微调（PEFT）<br/>
+        模型内部结构与注意力机制分析<br/>
+        分布式训练、显存与吞吐优化
+      </td>
+      <td>
+        <code>PyTorch</code> · <code>DeepSpeed</code> · <code>CUDA</code> · <code>PEFT</code> · <code>Transformers</code> · <code>TensorFlow</code><br/>
+        <i>→ GPU 资源优化 25% · 开发效率 +40%</i>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🤖 Agent 工程化</b></td>
+      <td>
+        Planning-Execution-Feedback 编排<br/>
+        多 Agent 协作、角色化分工<br/>
+        工具调用 / 状态机 / 上下文管理
+      </td>
+      <td>
+        <code>LangGraph</code> · <code>LangChain</code> · <code>AutoGen</code> · <code>ReAct</code> · <code>Function Calling</code><br/>
+        <i>→ Solvely.ai · 运营蜂巢 HiveMote</i>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🧪 PromptOps & 评测</b></td>
+      <td>
+        失败样本自动回流（AutoFeedbackLoop）<br/>
+        模板扰动 · 多模型适配层 · 回退策略<br/>
+        badcase 治理与效果对齐
+      </td>
+      <td>
+        <code>PromptOps</code> · <code>A/B Eval</code> · <code>LLM-as-Judge</code> · <code>Regression Suite</code><br/>
+        <i>→ 长链路任务稳定性显著提升</i>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🔍 RAG / GraphRAG / 检索</b></td>
+      <td>
+        文档解析 · 知识抽取 · Knowledge Map<br/>
+        向量检索 · 混合检索 · 重排（Rerank）<br/>
+        引用追溯 · 多模态问答 · 多文件会话
+      </td>
+      <td>
+        <code>RAG</code> · <code>GraphRAG</code> · <code>Vector DB</code> · <code>BM25</code> · <code>Embedding</code> · <code>Schema</code><br/>
+        <i>→ Solvely 长文档 AI Content Engine</i>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🚀 工程化落地</b></td>
+      <td>
+        流式输出 · 显式缓存 · 上下文状态机<br/>
+        Token Mask · 推理成本治理<br/>
+        灰度发布 · 自动扩缩 · 监控告警
+      </td>
+      <td>
+        <code>Streaming</code> · <code>Cache</code> · <code>Docker</code> · <code>K8s</code> · <code>Linux</code> · <code>Aliyun</code><br/>
+        <i>→ TTFT 35.7s → 17.4s (-51%) · Token -90% · 响应 +91%</i>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 🛠️ Languages & Tech Stack
 
 ### 💻 Languages
@@ -34,22 +112,31 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
-### 🤖 AI · Agent · Model
+### 🧬 LLM / Model 工具栈
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" title="多 Agent 编排与状态机" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG-FF4785?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" title="RAG / GraphRAG / 多模态问答" />
-  <img src="https://img.shields.io/badge/LoRA-8A2BE2?style=for-the-badge" alt="LoRA" title="SFT / 参数高效微调" />
-  <img src="https://img.shields.io/badge/PromptOps-00C7B7?style=for-the-badge" alt="PromptOps" title="提示调优与 badcase 回流" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/PEFT-8A2BE2?style=for-the-badge" alt="PEFT" />
+  <img src="https://img.shields.io/badge/DeepSpeed-2D63B5?style=for-the-badge" alt="DeepSpeed" />
 </p>
 
-### 🌐 Frontend · Frameworks · Web
+### 🤖 Agent / RAG 工具栈
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/AutoGen-1A73E8?style=for-the-badge" alt="AutoGen" />
+  <img src="https://img.shields.io/badge/RAG-FF4785?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/GraphRAG-FF4785?style=for-the-badge" alt="GraphRAG" />
+  <img src="https://img.shields.io/badge/PromptOps-00C7B7?style=for-the-badge" alt="PromptOps" />
+  <img src="https://img.shields.io/badge/Vector_DB-FF6F00?style=for-the-badge" alt="Vector DB" />
+</p>
+
+### 🌐 Frontend / Web
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="App Router / SSR" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -74,16 +161,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=threethreeLiu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=threethreeLiu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=threethreeLiu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css,scss" alt="Top Languages" />
-  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=threethreeLiu&theme=tokyonight&no-frame=true&column=2&margin-w=4" alt="Trophies" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=threethreeLiu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
