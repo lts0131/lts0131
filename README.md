@@ -11,87 +11,87 @@
 
 ## 🪐 About Me
 
-- 🔭 **Now:** AI 原生架构师 @ [蓝卓数字科技](https://threethreeliu.top/about-me) — 推动智能能力从原型走向可交付系统
-- 🧠 **Focus:** FDE · AI Native 架构 · Agent 工作流落地 · RAG / GraphRAG
-- 📚 **Research:** 教育 Agent SCI 一区在投 · ETNCC 会议论文 1 篇
-- 🌱 **Community:** Datawhale 开源 AI 社区银牌召集人
+- 🔭 **Now:** AI Native Architect @ [Bluesmart Digital](https://threethreeliu.top/about-me) — Shipping intelligence from prototype to production
+- 🧠 **Focus:** FDE · AI Native Architecture · Agent Workflow Deployment · RAG / GraphRAG
+- 📚 **Research:** Education Agent — SCI Q1 journal under review · 1 ETNCC conference paper
+- 🌱 **Community:** Silver-tier organizer at Datawhale open-source AI community
 - 💬 **Reach me:** threethreeliu@163.com
 
-<sub>🚧 *我的世界以水星为中心 — Mercury At The Center Of My World*</sub>
+<sub>🚧 *My world revolves around Mercury — Mercury At The Center Of My World*</sub>
 
 ---
 
-## 🧠 大模型 / Agent 能力矩阵
+## 🧠 LLM / Agent Capability Matrix
 
-> 把大模型能力做成可交付、可迭代、可落地的工程系统，是我现在做的所有事情的主线。
+> Turning LLM capabilities into shippable, iterable, production-grade engineering systems — this is the through-line of everything I do today.
 
 <table>
   <thead>
     <tr>
-      <th align="left" width="22%">方向</th>
-      <th align="left">核心能力</th>
-      <th align="left">工具栈 / 关键词</th>
+      <th align="left" width="22%">Track</th>
+      <th align="left">Core Capabilities</th>
+      <th align="left">Toolchain / Keywords</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>🧬 模型训练与微调</b></td>
+      <td><b>🧬 Model Training & Fine-tuning</b></td>
       <td>
-        SFT · LoRA · 参数高效微调（PEFT）<br/>
-        模型内部结构与注意力机制分析<br/>
-        分布式训练、显存与吞吐优化
+        SFT · LoRA · Parameter-Efficient Fine-tuning (PEFT)<br/>
+        Model internals & attention mechanism analysis<br/>
+        Distributed training, GPU memory & throughput optimization
       </td>
       <td>
         <code>PyTorch</code> · <code>DeepSpeed</code> · <code>CUDA</code> · <code>PEFT</code> · <code>Transformers</code> · <code>TensorFlow</code><br/>
-        <i>→ GPU 资源优化 25% · 开发效率 +40%</i>
+        <i>→ GPU resources optimized 25% · dev velocity +40%</i>
       </td>
     </tr>
     <tr>
-      <td><b>🤖 Agent 工程化</b></td>
+      <td><b>🤖 Agent Engineering</b></td>
       <td>
-        Planning-Execution-Feedback 编排<br/>
-        多 Agent 协作、角色化分工<br/>
-        工具调用 / 状态机 / 上下文管理
+        Planning-Execution-Feedback orchestration<br/>
+        Multi-agent collaboration · role-based task division<br/>
+        Tool calling / state machine / context management
       </td>
       <td>
         <code>LangGraph</code> · <code>LangChain</code> · <code>AutoGen</code> · <code>ReAct</code> · <code>Function Calling</code><br/>
-        <i>→ Solvely.ai · 运营蜂巢 HiveMote</i>
+        <i>→ Solvely.ai · Operations Hive — HiveMote</i>
       </td>
     </tr>
     <tr>
-      <td><b>🧪 PromptOps & 评测</b></td>
+      <td><b>🧪 PromptOps & Evaluation</b></td>
       <td>
-        失败样本自动回流（AutoFeedbackLoop）<br/>
-        模板扰动 · 多模型适配层 · 回退策略<br/>
-        badcase 治理与效果对齐
+        Automated failure-sample feedback loop (AutoFeedbackLoop)<br/>
+        Template perturbation · multi-model adapter layer · fallback strategy<br/>
+        Badcase governance & effect alignment
       </td>
       <td>
         <code>PromptOps</code> · <code>A/B Eval</code> · <code>LLM-as-Judge</code> · <code>Regression Suite</code><br/>
-        <i>→ 长链路任务稳定性显著提升</i>
+        <i>→ Significant stability gains on long-horizon tasks</i>
       </td>
     </tr>
     <tr>
-      <td><b>🔍 RAG / GraphRAG / 检索</b></td>
+      <td><b>🔍 RAG / GraphRAG / Retrieval</b></td>
       <td>
-        文档解析 · 知识抽取 · Knowledge Map<br/>
-        向量检索 · 混合检索 · 重排（Rerank）<br/>
-        引用追溯 · 多模态问答 · 多文件会话
+        Document parsing · knowledge extraction · Knowledge Map<br/>
+        Vector retrieval · hybrid retrieval · Reranking<br/>
+        Citation tracing · multimodal QA · multi-document conversation
       </td>
       <td>
         <code>RAG</code> · <code>GraphRAG</code> · <code>Vector DB</code> · <code>BM25</code> · <code>Embedding</code> · <code>Schema</code><br/>
-        <i>→ Solvely 长文档 AI Content Engine</i>
+        <i>→ Solvely Long-Document AI Content Engine</i>
       </td>
     </tr>
     <tr>
-      <td><b>🚀 工程化落地</b></td>
+      <td><b>🚀 Production Engineering</b></td>
       <td>
-        流式输出 · 显式缓存 · 上下文状态机<br/>
-        Token Mask · 推理成本治理<br/>
-        灰度发布 · 自动扩缩 · 监控告警
+        Streaming output · explicit caching · context state machine<br/>
+        Token Mask · inference cost governance<br/>
+        Canary release · auto-scaling · monitoring & alerting
       </td>
       <td>
         <code>Streaming</code> · <code>Cache</code> · <code>Docker</code> · <code>K8s</code> · <code>Linux</code> · <code>Aliyun</code><br/>
-        <i>→ TTFT 35.7s → 17.4s (-51%) · Token -90% · 响应 +91%</i>
+        <i>→ TTFT 35.7s → 17.4s (-51%) · Token cost -90% · throughput +91%</i>
       </td>
     </tr>
   </tbody>
@@ -103,8 +103,8 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="主力算法与工程语言" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="前端与全栈类型系统" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Primary language for algorithms & engineering" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="Type system for frontend & full-stack" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -112,7 +112,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
-### 🧬 LLM / Model 工具栈
+### 🧬 LLM / Model Stack
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -122,7 +122,7 @@
   <img src="https://img.shields.io/badge/DeepSpeed-2D63B5?style=for-the-badge" alt="DeepSpeed" />
 </p>
 
-### 🤖 Agent / RAG 工具栈
+### 🤖 Agent / RAG Stack
 <p>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
@@ -177,25 +177,25 @@
 
 <p align="center">
   <a href="https://threethreeliu.top/" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/bl.svg" alt="Blog" width="96" hspace="6" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/bl.svg" alt="Blog" width="32" hspace="6" />
   </a>
   <a href="https://github.com/threethreeLiu" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/gh.svg" alt="GitHub" width="96" hspace="6" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/gh.svg" alt="GitHub" width="32" hspace="6" />
   </a>
   <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/kg.svg" alt="Kaggle" width="96" hspace="6" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/kg.svg" alt="Kaggle" width="32" hspace="6" />
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/li.svg" alt="LinkedIn" width="96" hspace="6" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/li.svg" alt="LinkedIn" width="32" hspace="6" />
   </a>
   <a href="https://www.strava.com/athletes/liurunming" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/st.svg" alt="Strava" width="96" hspace="6" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/st.svg" alt="Strava" width="32" hspace="6" />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/ig.svg" alt="Instagram" width="96" hspace="6" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/ig.svg" alt="Instagram" width="32" hspace="6" />
   </a>
   <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/fb.svg" alt="Facebook" width="96" hspace="6" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/fb.svg" alt="Facebook" width="32" hspace="6" />
   </a>
 </p>
 
