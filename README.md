@@ -175,33 +175,27 @@
 
 ## 🤝 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://threethreeliu.top/" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/bl.svg" alt="Blog" width="64" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/bl.svg" alt="Blog" width="96" hspace="6" />
   </a>
-  &nbsp;
   <a href="https://github.com/threethreeLiu" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/gh.svg" alt="GitHub" width="64" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/gh.svg" alt="GitHub" width="96" hspace="6" />
   </a>
-  &nbsp;
   <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/kg.svg" alt="Kaggle" width="64" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/kg.svg" alt="Kaggle" width="96" hspace="6" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/li.svg" alt="LinkedIn" width="64" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/li.svg" alt="LinkedIn" width="96" hspace="6" />
   </a>
-  &nbsp;
   <a href="https://www.strava.com/athletes/liurunming" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/st.svg" alt="Strava" width="64" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/st.svg" alt="Strava" width="96" hspace="6" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/ig.svg" alt="Instagram" width="64" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/ig.svg" alt="Instagram" width="96" hspace="6" />
   </a>
-  &nbsp;
   <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/fb.svg" alt="Facebook" width="64" />
+    <img src="https://raw.githubusercontent.com/threethreeLiu/threethreeLiu/main/soc/fb.svg" alt="Facebook" width="96" hspace="6" />
   </a>
 </p>
 
